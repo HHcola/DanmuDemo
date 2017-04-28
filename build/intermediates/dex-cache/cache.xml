@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hewei05/.android/build-cache/da8f0f6640c624e6acddd496ca299cdccb5a4cdd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/hewei05/workspace/git-workspace/DanmuDemo/app/build/intermediates/pre-dexed/debug/classes_a091d8e9818b2f5707b9db1b13558a06d32bffb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hewei05/.android/build-cache/da8f0f6640c624e6acddd496ca299cdccb5a4cdd/output/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/hewei05/workspace/git-workspace/DanmuDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_0e4fb7afbb37e2b2ca73db01d4552635905974e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hewei05/AndroidSDK/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/hewei05/workspace/git-workspace/DanmuDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_857361071935b00d776278ab535d3c187d99281a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hewei05/.android/build-cache/2798945b035809374e2ea0267b0a3b2de5ae2bdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="232cff4eb0d26cb4979b9e65454c2d33d573748d">
+        <dex dex="/Users/hewei05/workspace/git-workspace/DanmuDemo/app/build/intermediates/pre-dexed/debug/classes_bc56965d01d90e52b143e0f3bbbbe25412948001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hewei05/.android/build-cache/d38abe8a0903a20b9ff459912de1a72989916112/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/hewei05/workspace/git-workspace/DanmuDemo/app/build/intermediates/pre-dexed/debug/classes_e8b8222b0d255263b07f86418e7a7a5fc1e91a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hewei05/.android/build-cache/8226506204625c3736e0bf9a0584ce3abbf31fb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/hewei05/workspace/git-workspace/DanmuDemo/app/build/intermediates/pre-dexed/debug/classes_7df2738b86c2999863680db6cfb212a7c220b49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hewei05/.android/build-cache/08d3dcd7ca893fbe1f61340578006b2be711bc79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/hewei05/workspace/git-workspace/DanmuDemo/app/build/intermediates/pre-dexed/debug/classes_727df1c3c6364fd798da7001be8ce2146cf51f96.jar" />
+    </item>
+
+</items>
